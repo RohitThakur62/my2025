@@ -1,1 +1,27 @@
-git initailize----git init
+git initailize---->git init
+
+
+add fille add-->git add .
+
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+changes---git commit -m "first commit"
+
+all file uploaded
+
+accounts me--->git branch -M main
+
+
+ git remote add origin https://github.com/RohitThakur62/my2025.git
+
+
+git push -u origin main
+
+
+git add .
+
+git commit -m "code added" 
+
+push -u origin main
